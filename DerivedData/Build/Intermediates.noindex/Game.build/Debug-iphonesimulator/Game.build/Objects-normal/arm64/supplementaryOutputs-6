@@ -1,0 +1,30 @@
+{
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Systems/ScoreManager.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ScoreManager.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ScoreManager.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ScoreManager.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ScoreManager.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ScoreManager.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Systems/SoundManager.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/SoundManager.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/SoundManager.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/SoundManager.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/SoundManager.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/SoundManager.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Systems/TrajectoryRenderer.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrajectoryRenderer.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrajectoryRenderer.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrajectoryRenderer.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrajectoryRenderer.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrajectoryRenderer.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/CharacterSelectView.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CharacterSelectView.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CharacterSelectView.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CharacterSelectView.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CharacterSelectView.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CharacterSelectView.swiftdeps"
+  }
+}

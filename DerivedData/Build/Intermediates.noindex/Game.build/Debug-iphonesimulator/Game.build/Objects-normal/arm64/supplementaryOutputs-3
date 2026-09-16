@@ -1,0 +1,30 @@
+{
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Models/LevelObjective.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelObjective.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelObjective.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelObjective.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelObjective.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelObjective.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Models/ObstacleType.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ObstacleType.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ObstacleType.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ObstacleType.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ObstacleType.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/ObstacleType.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Nodes/AnimalNode.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalNode.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalNode.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalNode.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalNode.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalNode.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Nodes/FanNode.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/FanNode.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/FanNode.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/FanNode.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/FanNode.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/FanNode.swiftdeps"
+  }
+}

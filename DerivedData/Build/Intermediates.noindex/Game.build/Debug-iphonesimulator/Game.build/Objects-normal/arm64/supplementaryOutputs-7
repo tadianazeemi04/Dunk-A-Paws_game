@@ -1,0 +1,30 @@
+{
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/GameView.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameView.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameView.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameView.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameView.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameView.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/LevelSelectView.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelSelectView.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelSelectView.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelSelectView.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelSelectView.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelSelectView.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/MainMenuView.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/MainMenuView.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/MainMenuView.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/MainMenuView.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/MainMenuView.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/MainMenuView.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/PauseView.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PauseView.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PauseView.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PauseView.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PauseView.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PauseView.swiftdeps"
+  }
+}

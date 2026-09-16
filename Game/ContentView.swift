@@ -1,146 +1,62 @@
-//
-//  ContentView.swift
-//  Game
-//
-//  Created by Tadian Ahmad Azeemi on 14/09/2026.
-//
-
 import SwiftUI
-import RealityKit
+import SpriteKit
+import Combine
 
 struct ContentView: View {
-    let boxEntity = Entity()
+    @EnvironmentObject var gameManager: GameManager
+    @EnvironmentObject var progressManager: GameProgressManager
 
     var body: some View {
-        ZStack {
-            RealityView { content in
-                // If iOS device that is not the simulator,
-                // use the spatial tracking camera.
-                #if os(iOS) && !targetEnvironment(simulator)
-                content.camera = .spatialTracking
-                #endif
-                createGameScene(content)
+        Group {
+            switch gameManager.gameState {
+            case .menu:
+                MainMenuView()
+                    .environmentObject(gameManager)
+                    .environmentObject(progressManager)
+                    .transition(.opacity)
+
+            case .characterSelection:
+                CharacterSelectView()
+                    .environmentObject(gameManager)
+                    .environmentObject(progressManager)
+                    .transition(.move(edge: .trailing))
+
+            case .levelSelection:
+                LevelSelectView()
+                    .environmentObject(gameManager)
+                    .environmentObject(progressManager)
+                    .transition(.move(edge: .trailing))
+
+            case .settings:
+                SettingsView()
+                    .environmentObject(gameManager)
+                    .environmentObject(progressManager)
+                    .transition(.move(edge: .bottom))
+
+            case .ready, .aiming, .flying, .paused, .scored, .failed, .levelComplete:
+                GameView(levelID: gameManager.currentLevel)
+                    .environmentObject(gameManager)
+                    .environmentObject(progressManager)
+                    .transition(.opacity)
             }
-            #if !os(tvOS)
-            .gesture(tapEntityGesture)
-            #endif
-            // When this app runs on macOS or iOS simulator,
-            // add camera controls that orbit the origin.
-            #if os(macOS) || (os(iOS) && targetEnvironment(simulator))
-            .realityViewCameraControls(.orbit)
-            #endif
-
-            // Add instructions to tap the cube.
-            VStack {
-                Spacer()
-                #if os(tvOS)
-                Button(action: {
-                    try? spinEntity(boxEntity)
-                }, label: {
-                    Text("Select to spin the cube!")
-                })
-                #else
-                Text("Tap the cube to spin!")
-                #endif
-            }.padding()
         }
+        .animation(.easeInOut(duration: 0.3), value: gameManager.gameState)
+        .onAppear {
+            SoundManager.shared.playMusic("menu")
+        }
+        .onChange(of: gameManager.gameState) { _, newState in
+            switch newState {
+            case .menu, .levelSelection, .characterSelection, .settings:
+                SoundManager.shared.playMusic("menu")
+            case .ready, .aiming, .flying:
+                SoundManager.shared.playMusic("gameplay")
+            case .levelComplete:
+                SoundManager.shared.playMusic("victory")
+            default:
+                break
+            }
+        }
+        .preferredColorScheme(.light)
+        .statusBarHidden(true)
     }
-
-    /// A gesture that spins entities that have a spin component.
-    #if !os(tvOS)
-    var tapEntityGesture: some Gesture {
-        TapGesture().targetedToEntity(where: .has(SpinComponent.self))
-            .onEnded({ gesture in
-                try? spinEntity(gesture.entity)
-            })
-    }
-    #endif
-
-    /// Creates a game scene and adds it to the view content.
-    ///
-    /// - Parameter content: The active content for this RealityKit game.
-    fileprivate func createGameScene(_ content: any RealityViewContentProtocol) {
-        let boxSize: SIMD3<Float> = [0.2, 0.2, 0.2]
-        // A component that shows a red box model.
-        var material = PhysicallyBasedMaterial()
-        material.baseColor = .init(tint: .init(red: 1.0, green: 0.0, blue: 0.0, alpha: 1.0))
-        let boxModel = ModelComponent(
-            mesh: .generateBox(size: boxSize),
-            materials: [material]
-        )
-        // Components that allow interaction and visual feedback.
-        let inputTargetComponent = InputTargetComponent()
-        #if !os(tvOS)
-        let hoverComponent = HoverEffectComponent()
-        #endif
-
-        // A component that sets the collision shape.
-        let boxCollision = CollisionComponent(shapes: [.generateBox(size: boxSize)])
-
-        // A component that stores spin information.
-        let spinComponent = SpinComponent()
-
-        // Set all the entity's components.
-        #if os(tvOS)
-        boxEntity.components.set([
-            boxModel, boxCollision, inputTargetComponent,
-            spinComponent
-        ])
-        #else
-        boxEntity.components.set([
-            boxModel, boxCollision, inputTargetComponent, hoverComponent,
-            spinComponent
-        ])
-        #endif
-
-        // Add the entity to the RealityView content.
-        content.add(boxEntity)
-
-        // If iOS device, except simulator.
-        #if os(iOS) && !targetEnvironment(simulator)
-        // Create an anchor target that is any floor surface
-        // greater than or equal to a 1x1m area.
-        let anchorTarget: AnchoringComponent.Target = .plane(
-            .horizontal, classification: .floor,
-            minimumBounds: .one
-        )
-        boxEntity.components.set(AnchoringComponent(anchorTarget))
-        // Move boxEntity up by half the box height, so that its base is on the ground.
-        boxEntity.position.y += boxSize.y / 2
-        #elseif os(macOS) || os(iOS) || os(tvOS)
-        // If macOS, tvOS, or iOS simulator, add a perspective camera to the scene.
-        let camera = Entity(components: PerspectiveCameraComponent())
-        content.add(camera)
-
-        // Set the camera position and orientation.
-        let cameraLocation: SIMD3<Float> = [1, 1, 2]
-        camera.look(at: .zero, from: cameraLocation, relativeTo: nil)
-        #endif
-    }
-
-    /// Spins an entity around the y-axis.
-    /// - Parameter entity: The entity to spin.
-    func spinEntity(_ entity: Entity) throws {
-        // Get the entity's spin component.
-        guard let spinComponent = entity.components[SpinComponent.self]
-        else { return }
-
-        // Create a spin action that makes one revolution
-        // around the axis from the component.
-        let spinAction = SpinAction(revolutions: 1, localAxis: spinComponent.spinAxis)
-
-        // Create a one second animation that spins an entity.
-        let spinAnimation = try AnimationResource.makeActionAnimation(
-            for: spinAction,
-            duration: 1,
-            bindTarget: .transform
-        )
-
-        // Play the animation that spins the entity.
-        entity.playAnimation(spinAnimation)
-    }
-}
-
-#Preview {
-    ContentView()
 }

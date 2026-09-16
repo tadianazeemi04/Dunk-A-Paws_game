@@ -1,0 +1,104 @@
+{
+  "source": "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "RESET ALL PROGRESS",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset All Progress?",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "This will permanently delete all your levels, stars, scores, and preferences. This cannot be undone!",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset Everything",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep Progress",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "SETTINGS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cute animals become basketballs, slingshots become launchers, and every basket becomes a trick shot! 🎯",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "🐼🐱🐧",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dunk-A-Paws",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "Slingshot Hoops v1.0",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 241
+        }
+      }
+    ]
+  },
+  "version": 1
+}

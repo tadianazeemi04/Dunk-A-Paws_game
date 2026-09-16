@@ -1,0 +1,30 @@
+{
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Game/LevelManager.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelManager.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelManager.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelManager.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelManager.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/LevelManager.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Game/PhysicsCategories.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PhysicsCategories.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PhysicsCategories.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PhysicsCategories.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PhysicsCategories.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/PhysicsCategories.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Models/AnimalType.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalType.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalType.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalType.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalType.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/AnimalType.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Models/GameProgress.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgress.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgress.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgress.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgress.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgress.swiftdeps"
+  }
+}

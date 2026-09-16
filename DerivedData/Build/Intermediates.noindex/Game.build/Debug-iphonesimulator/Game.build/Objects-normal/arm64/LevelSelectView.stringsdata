@@ -1,0 +1,80 @@
+{
+  "source": "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/LevelSelectView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "SELECT LEVEL",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to menu",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / 60",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stars Collected",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / 20",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Levels Unlocked",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "🏆 %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 209
+        }
+      },
+      {
+        "comment": "",
+        "key": "PLAY",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 217
+        }
+      }
+    ]
+  },
+  "version": 1
+}

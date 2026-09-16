@@ -1,0 +1,30 @@
+{
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Nodes/TrampolineNode.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrampolineNode.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrampolineNode.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrampolineNode.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrampolineNode.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/TrampolineNode.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Systems/CameraManager.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CameraManager.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CameraManager.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CameraManager.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CameraManager.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/CameraManager.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Systems/GameProgressManager.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgressManager.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgressManager.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgressManager.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgressManager.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/GameProgressManager.swiftdeps"
+  },
+  "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Systems/HapticManager.swift" : {
+    "const-values" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/HapticManager.swiftconstvalues",
+    "dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/HapticManager.d",
+    "diagnostics" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/HapticManager.dia",
+    "object" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/HapticManager.o",
+    "swift-dependencies" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/Game.build/Debug-iphonesimulator/Game.build/Objects-normal/arm64/HapticManager.swiftdeps"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "source": "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/PauseView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "⏸️",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "PAUSED",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "SCORE",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "BEST",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "SHOTS USED",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Level Select",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "😿",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 348
+        }
+      },
+      {
+        "comment": "",
+        "key": "OUT OF SHOTS!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "You used all %lld shots.\nDon't give up! Try again.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 355
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stars collected:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 364
+        }
+      }
+    ]
+  },
+  "version": 1
+}

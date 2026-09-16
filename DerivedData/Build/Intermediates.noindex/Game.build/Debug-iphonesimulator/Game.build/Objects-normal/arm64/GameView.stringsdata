@@ -1,0 +1,88 @@
+{
+  "source": "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/GameView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "LEVEL %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pause game",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "SCORE",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "SHOTS: %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use %@ ability",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to continue",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "🎯 OBJECTIVE",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "NEXT",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 313
+        }
+      },
+      {
+        "comment": "",
+        "key": "LET'S PLAY!",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 313
+        }
+      }
+    ]
+  },
+  "version": 1
+}

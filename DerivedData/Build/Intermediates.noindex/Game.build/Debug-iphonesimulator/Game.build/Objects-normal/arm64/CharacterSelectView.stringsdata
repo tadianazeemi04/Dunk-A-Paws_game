@@ -1,0 +1,40 @@
+{
+  "source": "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/CharacterSelectView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CHOOSE ANIMAL",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "PLAY AS %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "⭐",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 188
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game/Views/MainMenuView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "SLINGSHOT HOOPS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "🐾",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      }
+    ]
+  },
+  "version": 1
+}

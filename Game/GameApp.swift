@@ -1,17 +1,12 @@
-//
-//  GameApp.swift
-//  Game
-//
-//  Created by Tadian Ahmad Azeemi on 14/09/2026.
-//
-
 import SwiftUI
 
 @main
-struct GameApp: App {
+struct DunkAPawsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(GameManager.shared)
+                .environmentObject(GameProgressManager.shared)
         }
     }
 }

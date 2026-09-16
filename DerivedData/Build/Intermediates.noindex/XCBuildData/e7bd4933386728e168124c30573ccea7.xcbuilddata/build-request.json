@@ -1,0 +1,71 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "02f4bd62de889247d9ec990c6b7672c6422d80d474a162f4ca45282261b7aec2"
+    }
+  ],
+  "containerPath" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/Game.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ios_dev/0. Disk Extra/Swift_UI_Game/Game/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone18,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "26.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone18,3",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "C2BE7615-DDAC-48FD-A7AD-4288877C9147",
+          "TARGET_DEVICE_MODEL" : "iPhone18,3",
+          "TARGET_DEVICE_OS_VERSION" : "26.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
